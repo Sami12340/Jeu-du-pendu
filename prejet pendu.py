@@ -3,8 +3,7 @@
 """
 PROJET DU JEU DU PENDU
 -----------------------
-NOM: HALHALI
-DATE : 04/01/22
+
 """
 
 # On importe les bibliothèsque utiles:
